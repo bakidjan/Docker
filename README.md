@@ -1,7 +1,7 @@
 ## Dockerfile
-installer docker avec le script https://get.docker.com/
-```curl -fsSL https://get.docker.com -o get-docker.sh
-sh get-docker.sh```
+installer docker avec le script : https://get.docker.com/
+```curl -fsSL https://get.docker.com -o get-docker.sh```
+```sh get-docker.sh```
 
 ### Builder l'image
 ```
