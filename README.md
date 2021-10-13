@@ -16,7 +16,7 @@ installer docker-compose for linux https://docs.docker.com/compose/install/
 
 ### docker-compose.yml
 dans même repertoire que docker-compose.yml
-```docker-compose -d up```
+```docker-compose up -d```
 
 ### accedrer à l'aplication via le navigateur
 ```@ip:80```
