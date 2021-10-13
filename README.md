@@ -26,6 +26,7 @@ dans même repertoire que docker-compose.yml
 (https://github.com/bakidjan/PL2_AI/tree/master/visagesAnimesjs) 
 
 installer docker avec le script : https://get.docker.com/
+
 ```curl -fsSL https://get.docker.com -o get-docker.sh```
 ```sh get-docker.sh```
 
