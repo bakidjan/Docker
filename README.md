@@ -22,7 +22,8 @@ dans même repertoire que docker-compose.yml
 ```@ip:80```
 
 
-# créer une image de l'appli visagesanimesjs https://github.com/bakidjan/PL2_AI/tree/master/visagesAnimesjs avec un Dockerfile
+## créer une image de l'appli visagesanimesjs 
+_https://github.com/bakidjan/PL2_AI/tree/master/visagesAnimesjs avec un Dockerfile
 installer docker avec le script : https://get.docker.com/
 ```curl -fsSL https://get.docker.com -o get-docker.sh```
 ```sh get-docker.sh```
