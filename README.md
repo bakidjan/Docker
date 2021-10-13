@@ -12,3 +12,5 @@ sudo docker build -t visagesanimesjs .
 ### Docker run pour lancer le conteneur à base de l'image
 
 ```sudo docker run --name nomimage:version -d -p 8081:80 visagesanimesjs```
+### accedrer à l'aplication via le navigateur
+```@ip:8081``` 
