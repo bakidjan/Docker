@@ -5,8 +5,8 @@
 - Faire en sorte que le conteneur odoo et la db soient dans le même réseau bridge nommé odoo_network 
 - Vérifier l'acces à l'application odoo
 
-## docker-compose for **odoo and **postgres
-installer docker-compose **for linux https://docs.docker.com/compose/install/
+## docker-compose for *odoo and postgres
+installer docker-compose for linux https://docs.docker.com/compose/install/
 
 ```sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose```
 
